@@ -34,7 +34,3 @@ The script will print statistics including the total file size and the number of
 
 Here's an example of how the script works:
 
-
-## Author
-
-This project is implemented by [Aman Brhane].
